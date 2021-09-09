@@ -1,6 +1,7 @@
 # CodeGDL2018
 Recursos del Hackathon --> Organizado por Oracle en Campus Zapopan del Tec. de Monterrey, Guadalajara 2018
 
+![image](https://user-images.githubusercontent.com/73920367/132751587-5c00e6de-582a-4683-80d1-de313692e023.png)
 
 Tema: Data Science, Predicción de la calidad del aire.
 
